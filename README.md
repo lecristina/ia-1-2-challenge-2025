@@ -69,3 +69,10 @@ Foram aplicados `LabelEncoder` e `to_categorical` para o processamento.
 ➡️ [Inserir link do vídeo no YouTube aqui]
 
 ---
+
+## 👥 Desenvolvedores
+
+- Leticia Cristina Dos Santos Passos RM: 555241
+- André Rogério Vieira Pavanela Altobelli Antunes RM: 554764
+- Enrico Figueiredo Del Guerra RM: 558604
+
