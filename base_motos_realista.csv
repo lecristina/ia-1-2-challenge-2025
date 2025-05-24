@@ -1,0 +1,102 @@
+placa,numero_chassi,numero_motor,status,x,y,nova_x,nova_y,zona_ideal,descricao_posicao,status_encoded,zona_encoded
+ABC0000,CHS555102,MTR668535,Aguardando aluguel,3.92,9.15,6.3,8.86,BOX_RAPIDO,Disponível atrás da moto com placa ABC0000,0,1
+ABC0001,CHS437889,MTR345121,Danos estruturais,8.17,3.62,0.2,8.33,RAMPA_MANUTENCAO,Na fila de manutenção estrutural - moto placa ABC0001,2,3
+ABC0002,CHS576467,MTR772108,Defeito no motor,4.39,5.81,7.2,5.83,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0002,3,0
+ABC0003,CHS456600,MTR467257,Em manutenção,3.77,6.32,2.2,8.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0003,5,1
+ABC0004,CHS415557,MTR366765,Sem placa,4.63,0.13,7.6,5.83,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0004,7,0
+ABC0005,CHS983671,MTR246106,Em manutenção,3.01,6.64,2.6,8.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0005,5,1
+ABC0006,CHS404462,MTR358930,Disponível,7.48,1.78,6.9,8.86,PATIO,Disponível atrás da moto com placa ABC0006,4,2
+ABC0007,CHS350875,MTR760482,Danos estruturais,5.03,9.61,0.6,8.33,RAMPA_MANUTENCAO,Na fila de manutenção estrutural - moto placa ABC0007,2,3
+ABC0008,CHS563389,MTR904462,Disponível,2.32,1.49,7.5,8.86,PATIO,Disponível atrás da moto com placa ABC0008,4,2
+ABC0009,CHS170390,MTR969270,Sem placa,9.0,4.15,8.0,5.83,PATIO,Na bancada de motor sem placa ou com defeito - placa ABC0009,7,2
+ABC0010,CHS807689,MTR971149,Defeito no motor,3.84,0.85,8.4,5.83,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0010,3,0
+ABC0011,CHS353490,MTR548874,Sem placa,5.44,9.97,8.8,5.83,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0011,7,0
+ABC0012,CHS667376,MTR662926,Reparo simples,9.06,5.02,3.0,8.75,PATIO,Aguardando reparo no box rápido - moto placa ABC0012,6,2
+ABC0013,CHS347940,MTR953499,Sem placa,6.24,5.95,7.2,5.5,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0013,7,0
+ABC0014,CHS465340,MTR218033,Reparo simples,1.17,0.67,3.4,8.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0014,6,1
+ABC0015,CHS533027,MTR730265,Sem placa,9.4,7.5,7.6,5.5,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0015,7,0
+ABC0016,CHS608041,MTR713157,Alugada,6.28,2.1,8.1,8.86,PATIO,Disponível atrás da moto com placa ABC0016,1,2
+ABC0017,CHS417623,MTR729474,Reparo simples,3.35,8.98,3.8,8.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0017,6,1
+ABC0018,CHS316464,MTR921106,Danos estruturais,1.39,2.05,1.0,8.33,BANCADA_MOTOR,Na fila de manutenção estrutural - moto placa ABC0018,2,0
+ABC0019,CHS842729,MTR266926,Disponível,7.94,1.91,8.7,8.86,PATIO,Disponível atrás da moto com placa ABC0019,4,2
+ABC0020,CHS610736,MTR670559,Aguardando aluguel,6.2,0.37,6.3,8.57,PATIO,Disponível atrás da moto com placa ABC0020,0,2
+ABC0021,CHS906395,MTR960120,Disponível,5.33,4.72,6.9,8.57,PATIO,Disponível atrás da moto com placa ABC0021,4,2
+ABC0022,CHS417267,MTR531734,Em manutenção,8.94,5.65,2.2,8.25,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0022,5,1
+ABC0023,CHS750199,MTR473220,Disponível,7.89,0.66,7.5,8.57,PATIO,Disponível atrás da moto com placa ABC0023,4,2
+ABC0024,CHS988900,MTR765627,Defeito no motor,1.52,7.76,8.0,5.5,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0024,3,0
+ABC0025,CHS323777,MTR321897,Alugada,3.12,4.53,8.1,8.57,PATIO,Disponível atrás da moto com placa ABC0025,1,2
+ABC0026,CHS959909,MTR101062,Sem placa,2.48,5.24,8.4,5.5,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0026,7,0
+ABC0027,CHS900820,MTR347736,Em manutenção,7.44,4.41,2.6,8.25,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0027,5,1
+ABC0028,CHS105569,MTR674736,Defeito no motor,0.34,4.01,8.8,5.5,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0028,3,0
+ABC0029,CHS694124,MTR195462,Defeito no motor,5.7,5.6,7.2,5.17,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0029,3,0
+ABC0030,CHS728861,MTR499445,Reparo simples,7.62,1.55,3.0,8.25,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0030,6,1
+ABC0031,CHS529802,MTR550009,Disponível,8.77,1.82,8.7,8.57,PATIO,Disponível atrás da moto com placa ABC0031,4,2
+ABC0032,CHS358090,MTR870173,Danos estruturais,3.42,8.62,1.4,8.33,RAMPA_MANUTENCAO,Na fila de manutenção estrutural - moto placa ABC0032,2,3
+ABC0033,CHS767375,MTR672203,Aguardando aluguel,8.21,9.46,6.3,8.29,PATIO,Disponível atrás da moto com placa ABC0033,0,2
+ABC0034,CHS145002,MTR366776,Danos estruturais,1.11,3.73,1.8,8.33,RAMPA_MANUTENCAO,Na fila de manutenção estrutural - moto placa ABC0034,2,3
+ABC0035,CHS871954,MTR728880,Em manutenção,8.46,2.71,3.4,8.25,RAMPA_MANUTENCAO,Aguardando reparo no box rápido - moto placa ABC0035,5,3
+ABC0036,CHS761614,MTR758956,Alugada,1.27,6.44,6.9,8.29,PATIO,Disponível atrás da moto com placa ABC0036,1,2
+ABC0037,CHS779574,MTR471923,Danos estruturais,3.97,4.09,0.2,7.0,RAMPA_MANUTENCAO,Na fila de manutenção estrutural - moto placa ABC0037,2,3
+ABC0038,CHS598870,MTR499384,Sem placa,7.97,0.25,7.6,5.17,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0038,7,0
+ABC0039,CHS311791,MTR732387,Danos estruturais,1.5,1.56,0.6,7.0,RAMPA_MANUTENCAO,Na fila de manutenção estrutural - moto placa ABC0039,2,3
+ABC0040,CHS302846,MTR631849,Em manutenção,2.29,7.16,3.8,8.25,RAMPA_MANUTENCAO,Aguardando reparo no box rápido - moto placa ABC0040,5,3
+ABC0041,CHS761450,MTR567010,Aguardando aluguel,7.22,6.59,7.5,8.29,PATIO,Disponível atrás da moto com placa ABC0041,0,2
+ABC0042,CHS766997,MTR706440,Danos estruturais,7.2,0.27,1.0,7.0,RAMPA_MANUTENCAO,Na fila de manutenção estrutural - moto placa ABC0042,2,3
+ABC0043,CHS777775,MTR749324,Sem placa,6.41,2.22,8.0,5.17,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0043,7,0
+ABC0044,CHS124071,MTR486193,Reparo simples,6.94,2.31,2.2,7.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0044,6,1
+ABC0045,CHS682531,MTR126734,Alugada,5.43,6.72,8.1,8.29,PATIO,Disponível atrás da moto com placa ABC0045,1,2
+ABC0046,CHS994647,MTR126069,Em manutenção,2.52,0.2,2.6,7.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0046,5,1
+ABC0047,CHS272312,MTR835265,Reparo simples,3.46,1.04,3.0,7.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0047,6,1
+ABC0048,CHS357218,MTR637198,Reparo simples,1.82,8.0,3.4,7.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0048,6,1
+ABC0049,CHS314879,MTR435623,Reparo simples,9.08,1.79,3.8,7.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0049,6,1
+ABC0050,CHS463714,MTR570951,Defeito no motor,5.83,6.53,8.4,5.17,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0050,3,0
+ABC0051,CHS526650,MTR181264,Alugada,4.01,2.38,8.7,8.29,PATIO,Disponível atrás da moto com placa ABC0051,1,2
+ABC0052,CHS431868,MTR123275,Aguardando aluguel,4.62,0.99,6.3,8.0,PATIO,Disponível atrás da moto com placa ABC0052,0,2
+ABC0053,CHS962129,MTR696562,Disponível,9.47,2.43,6.9,8.0,PATIO,Disponível atrás da moto com placa ABC0053,4,2
+ABC0054,CHS653020,MTR574665,Alugada,1.53,7.22,7.5,8.0,PATIO,Disponível atrás da moto com placa ABC0054,1,2
+ABC0055,CHS745753,MTR462920,Defeito no motor,5.86,8.56,8.8,5.17,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0055,3,0
+ABC0056,CHS517170,MTR291076,Disponível,5.06,8.3,8.1,8.0,PATIO,Disponível atrás da moto com placa ABC0056,4,2
+ABC0057,CHS157108,MTR294053,Alugada,6.11,3.97,8.7,8.0,PATIO,Disponível atrás da moto com placa ABC0057,1,2
+ABC0058,CHS580721,MTR809913,Reparo simples,0.18,6.68,2.2,7.25,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0058,6,1
+ABC0059,CHS211195,MTR672735,Em manutenção,8.72,2.05,2.6,7.25,RAMPA_MANUTENCAO,Aguardando reparo no box rápido - moto placa ABC0059,5,3
+ABC0060,CHS989513,MTR699991,Disponível,9.32,2.93,6.3,7.71,PATIO,Disponível atrás da moto com placa ABC0060,4,2
+ABC0061,CHS136668,MTR962522,Sem placa,5.65,8.96,7.2,4.83,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0061,7,0
+ABC0062,CHS385205,MTR903692,Sem placa,6.97,0.13,7.6,4.83,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0062,7,0
+ABC0063,CHS441396,MTR212581,Danos estruturais,9.22,0.86,1.4,7.0,RAMPA_MANUTENCAO,Na fila de manutenção estrutural - moto placa ABC0063,2,3
+ABC0064,CHS664037,MTR365956,Disponível,7.07,2.08,6.9,7.71,PATIO,Disponível atrás da moto com placa ABC0064,4,2
+ABC0065,CHS230560,MTR521240,Em manutenção,1.53,0.27,3.0,7.25,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0065,5,1
+ABC0066,CHS466824,MTR814016,Aguardando aluguel,5.76,1.81,7.5,7.71,PATIO,Disponível atrás da moto com placa ABC0066,0,2
+ABC0067,CHS247979,MTR216421,Defeito no motor,6.07,5.83,8.0,4.83,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0067,3,0
+ABC0068,CHS249849,MTR625893,Reparo simples,4.24,4.21,3.4,7.25,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0068,6,1
+ABC0069,CHS848589,MTR564374,Danos estruturais,7.36,8.93,1.8,7.0,RAMPA_MANUTENCAO,Na fila de manutenção estrutural - moto placa ABC0069,2,3
+ABC0070,CHS151745,MTR172303,Sem placa,9.34,8.17,8.4,4.83,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0070,7,0
+ABC0071,CHS470608,MTR258211,Defeito no motor,9.26,3.42,8.8,4.83,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0071,3,0
+ABC0072,CHS191865,MTR287210,Defeito no motor,4.51,2.59,7.2,4.5,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0072,3,0
+ABC0073,CHS998860,MTR886237,Reparo simples,1.13,3.8,3.8,7.25,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0073,6,1
+ABC0074,CHS312890,MTR962557,Aguardando aluguel,9.85,5.9,8.1,7.71,PATIO,Disponível atrás da moto com placa ABC0074,0,2
+ABC0075,CHS123624,MTR244990,Aguardando aluguel,8.39,2.68,8.7,7.71,PATIO,Disponível atrás da moto com placa ABC0075,0,2
+ABC0076,CHS123321,MTR258518,Disponível,1.25,6.24,6.3,7.43,PATIO,Disponível atrás da moto com placa ABC0076,4,2
+ABC0077,CHS503704,MTR224040,Sem placa,9.21,4.09,7.6,4.5,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0077,7,0
+ABC0078,CHS909006,MTR768406,Aguardando aluguel,8.7,5.52,6.9,7.43,PATIO,Disponível atrás da moto com placa ABC0078,0,2
+ABC0079,CHS274293,MTR623138,Em manutenção,5.19,4.36,2.2,6.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0079,5,1
+ABC0080,CHS883415,MTR518034,Aguardando aluguel,5.91,2.94,7.5,7.43,PATIO,Disponível atrás da moto com placa ABC0080,0,2
+ABC0081,CHS286717,MTR856254,Defeito no motor,3.99,9.48,8.0,4.5,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0081,3,0
+ABC0082,CHS480975,MTR890756,Reparo simples,0.55,7.64,2.6,6.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0082,6,1
+ABC0083,CHS283868,MTR962755,Em manutenção,3.35,1.4,3.0,6.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0083,5,1
+ABC0084,CHS759792,MTR895543,Disponível,8.03,8.68,8.1,7.43,PATIO,Disponível atrás da moto com placa ABC0084,4,2
+ABC0085,CHS195257,MTR640677,Sem placa,0.05,4.87,8.4,4.5,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0085,7,0
+ABC0086,CHS688579,MTR746465,Disponível,3.33,8.95,8.7,7.43,PATIO,Disponível atrás da moto com placa ABC0086,4,2
+ABC0087,CHS310176,MTR403571,Defeito no motor,3.98,8.0,8.8,4.5,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0087,3,0
+ABC0088,CHS290471,MTR784106,Em manutenção,5.37,4.25,3.4,6.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0088,5,1
+ABC0089,CHS572930,MTR222883,Em manutenção,9.2,0.22,3.8,6.75,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0089,5,1
+ABC0090,CHS936860,MTR843246,Em manutenção,3.46,2.69,2.2,6.25,RAMPA_MANUTENCAO,Aguardando reparo no box rápido - moto placa ABC0090,5,3
+ABC0091,CHS843091,MTR862501,Defeito no motor,3.47,5.42,7.2,4.17,RAMPA_MANUTENCAO,Na bancada de motor sem placa ou com defeito - placa ABC0091,3,3
+ABC0092,CHS618862,MTR487952,Defeito no motor,7.38,6.33,7.6,4.17,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0092,3,0
+ABC0093,CHS575774,MTR212221,Disponível,4.52,2.58,6.3,7.14,PATIO,Disponível atrás da moto com placa ABC0093,4,2
+ABC0094,CHS735605,MTR899666,Danos estruturais,2.25,1.39,0.2,5.67,RAMPA_MANUTENCAO,Na fila de manutenção estrutural - moto placa ABC0094,2,3
+ABC0095,CHS239789,MTR360669,Disponível,4.52,8.35,6.9,7.14,PATIO,Disponível atrás da moto com placa ABC0095,4,2
+ABC0096,CHS489593,MTR859224,Sem placa,1.41,9.84,8.0,4.17,BANCADA_MOTOR,Na bancada de motor sem placa ou com defeito - placa ABC0096,7,0
+ABC0097,CHS915131,MTR939873,Reparo simples,1.76,5.26,2.6,6.25,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa ABC0097,6,1
+ABC0098,CHS173686,MTR625134,Em manutenção,4.98,1.72,3.0,6.25,RAMPA_MANUTENCAO,Aguardando reparo no box rápido - moto placa ABC0098,5,3
+ABC0099,CHS167661,MTR635242,Danos estruturais,4.19,2.72,0.6,5.67,BANCADA_MOTOR,Na fila de manutenção estrutural - moto placa ABC0099,2,0
+XYZ1234,CHS999999,MTR888888,Reparo simples,,,3.4,7.35,BOX_RAPIDO,Aguardando reparo no box rápido - moto placa XYZ1234,6,1
